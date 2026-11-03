@@ -1,6 +1,6 @@
 # Track-Budget-Save
 
-<img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/845a186d-c497-4ba5-826b-3c7bcb90375c" />
+<img width="800" height="800" alt="Image" src="https://github.com/user-attachments/assets/845a186d-c497-4ba5-826b-3c7bcb90375c" />
 
 Track Budget Save is a native SwiftUI budgeting app for iPhone (iOS 17+). Everything stays on your device: there are no accounts, no bank logins and no analytics, and CSV files are read on the phone and never uploaded.  Check out the User Guide PDF under the new release for a full breakfown of the app!
 
